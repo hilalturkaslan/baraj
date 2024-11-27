@@ -1,1 +1,1 @@
-İzmir'deki barajların doluluk oranı yapay zeka ile grafik gosterilm
+İzmir'deki barajların doluluk oranı yapay zeka ile grafik gösterilmiştir 
